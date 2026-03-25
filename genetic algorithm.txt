@@ -1,0 +1,13 @@
+1. Genetic Algorithm (GA)
+
+Description:
+A Genetic Algorithm is an optimization technique inspired by natural selection. It solves problems by generating a population of possible solutions and improving them through selection, crossover, and mutation over multiple generations.
+
+Key idea: Survival of the fittest.
+
+Examples:
+
+1. Feature Selection in Machine Learning
+GA selects the best subset of features to improve model accuracy (e.g., for your Rice Leaf Disease Detection project).
+2. Scheduling Problems
+Used to optimize class schedules or job assignments to minimize conflicts and maximize efficiency.
